@@ -1,0 +1,1080 @@
+PS D:\Source\sandbox\pchBugProject> .\build.ps1
+Not searching for unused variables given on the command line.
+-- Selecting Windows SDK version 10.0.22621.0 to target Windows 10.0.19045.
+-- Configuring done (0.1s)
+-- Generating done (0.8s)
+-- Build files have been written to: D:/Source/sandbox/pchBugProject/build
+MSBuild version 17.12.12+1cce77968 for .NET Framework
+
+  Checking File Globs
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project088/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project068/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project084/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project093/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project128/CMakeLists.txt
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project066/CMakeLists.txt
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project076/CMakeLists.txt
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project112/CMakeLists.txt
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project116/CMakeLists.txt
+  Compiling...
+  Compiling...
+  Compiling...
+  Compiling...
+  cmake_pch.cxx
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  Compiling...
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  module.cppm
+  cmake_pch.cxx
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  Compiling...
+  Compiling...
+  Compiling...
+  Compiling...
+  Compiling...
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Compiling...
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project072\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project072\Project072_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project072/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project072\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': command line argument number 11 does not match precompiled header [D:\Source\sandbox\pchBugProject\build\Project072\Project072_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project072/module.cppm')
+
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  Scanning sources for module dependencies...
+  module.cppm
+  Compiling...
+  module.cppm
+  module.cppm
+  module.cppm
+  cmake_pch.cxx
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  module.cppm
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  module.cppm
+  Project074_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project074\Debug\Project074_lib.lib
+  Project096_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project096\Debug\Project096_lib.lib
+  lib.cpp
+  Project100_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project100\Debug\Project100_lib.lib
+  Project080_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project080\Debug\Project080_lib.lib
+  Scanning sources for module dependencies...
+  Compiling...
+  Project120_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project120\Debug\Project120_lib.lib
+  Project090_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project090\Debug\Project090_lib.lib
+  Project104_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project104\Debug\Project104_lib.lib
+  Project117_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project117\Debug\Project117_lib.lib
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Compiling...
+  Project094_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project094\Debug\Project094_lib.lib
+  Scanning sources for module dependencies...
+  Compiling...
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Compiling...
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  Project092_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project092\Debug\Project092_lib.lib
+  Project098_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project098\Debug\Project098_lib.lib
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project102/CMakeLists.txt
+  Project078_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project078\Debug\Project078_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project106/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Compiling...
+  lib.cpp
+  lib.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project107/CMakeLists.txt
+  Project070_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project070\Debug\Project070_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project111/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  lib.cpp
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  lib.cpp
+  lib.cpp
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  module.cppm
+  module.cppm
+  cmake_pch.cxx
+  Project068_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project068\Debug\Project068_lib.lib
+  Project084_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project084\Debug\Project084_lib.lib
+  module.cppm
+  module.cppm
+  Project108_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project108\Debug\Project108_lib.lib
+  Scanning sources for module dependencies...
+  Compiling...
+  lib.cpp
+  Project088_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project088\Debug\Project088_lib.lib
+  Compiling...
+  Compiling...
+  Project112_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project112\Debug\Project112_lib.lib
+  Compiling...
+  cmake_pch.cxx
+  Project093_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project093\Debug\Project093_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project126/CMakeLists.txt
+  lib.cpp
+  Compiling...
+  cmake_pch.cxx
+  Project128_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project128\Debug\Project128_lib.lib
+  Project066_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project066\Debug\Project066_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project127/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project125/CMakeLists.txt
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  Compiling...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  module.cppm
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  module.cppm
+  Project116_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project116\Debug\Project116_lib.lib
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project087/CMakeLists.txt
+  Project076_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project076\Debug\Project076_lib.lib
+  Scanning sources for module dependencies...
+  Compiling...
+  Compiling...
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  module.cppm
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project109\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project109\Project109_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project109/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project109\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project109\Project109_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project109/module.cppm')
+
+  module.cppm
+  module.cppm
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project103\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project103\Project103_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project103/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project103\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project103\Project103_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project103/module.cppm')
+
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Compiling...
+  module.cppm
+  cmake_pch.cxx
+  module.cppm
+  module.cppm
+  cmake_pch.cxx
+  module.cppm
+  module.cppm
+  lib.cpp
+  lib.cpp
+  lib.cpp
+  module.cppm
+  module.cppm
+  lib.cpp
+  lib.cpp
+  module.cppm
+  module.cppm
+  lib.cpp
+  module.cppm
+  Scanning sources for module dependencies...
+  Compiling...
+  module.cppm
+  Project099_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project099\Debug\Project099_lib.lib
+  Project110_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project110\Debug\Project110_lib.lib
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Project119_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project119\Debug\Project119_lib.lib
+  Compiling...
+  lib.cpp
+  lib.cpp
+  Scanning sources for module dependencies...
+  Project097_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project097\Debug\Project097_lib.lib
+  Project118_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project118\Debug\Project118_lib.lib
+  lib.cpp
+  Compiling...
+  lib.cpp
+  lib.cpp
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  lib.cpp
+  Compiling...
+  cmake_pch.cxx
+  Project105_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project105\Debug\Project105_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project075/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Compiling...
+  lib.cpp
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  lib.cpp
+  lib.cpp
+  cmake_pch.cxx
+  lib.cpp
+  Project071_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project071\Debug\Project071_lib.lib
+  Project101_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project101\Debug\Project101_lib.lib
+  Scanning sources for module dependencies...
+  Project124_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project124\Debug\Project124_lib.lib
+  Compiling...
+  module.cppm
+  Project102_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project102\Debug\Project102_lib.lib
+  Project106_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project106\Debug\Project106_lib.lib
+  Scanning sources for module dependencies...
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  Compiling...
+  Compiling...
+  lib.cpp
+  lib.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project081/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Compiling...
+  Project111_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project111\Debug\Project111_lib.lib
+  cmake_pch.cxx
+  Compiling...
+  Project082_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project082\Debug\Project082_lib.lib
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project113/CMakeLists.txt
+  Compiling...
+  cmake_pch.cxx
+  lib.cpp
+  Project086_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project086\Debug\Project086_lib.lib
+  Project107_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project107\Debug\Project107_lib.lib
+  cmake_pch.cxx
+  lib.cpp
+  module.cppm
+  cmake_pch.cxx
+  lib.cpp
+  lib.cpp
+  Scanning sources for module dependencies...
+  Project114_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project114\Debug\Project114_lib.lib
+  Project126_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project126\Debug\Project126_lib.lib
+  Compiling...
+  module.cppm
+  Project083_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project083\Debug\Project083_lib.lib
+  Project115_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project115\Debug\Project115_lib.lib
+  cmake_pch.cxx
+  Project125_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project125\Debug\Project125_lib.lib
+  Project127_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project127\Debug\Project127_lib.lib
+  Project087_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project087\Debug\Project087_lib.lib
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project049/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project064/CMakeLists.txt
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project035/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project046/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project062/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project052/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project057/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project048/CMakeLists.txt
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project063/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project050/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project058/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project053/CMakeLists.txt
+  module.cppm
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project059/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project041/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project043/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project055/CMakeLists.txt
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  module.cppm
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project070/CMakeLists.txt
+  module.cppm
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project071/CMakeLists.txt
+  cmake_pch.cxx
+  Compiling...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  module.cppm
+  Compiling...
+  cmake_pch.cxx
+  module.cppm
+  cmake_pch.cxx
+  Compiling...
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project122\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project122\Project122_lib.vcxproj]
+  module.cppm
+  (compiling source file '../../CMakeProjects/Project122/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project122\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project122\Project122_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project122/module.cppm')
+
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project065\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project065\Project065_lib.vcxproj]
+  Scanning sources for module dependencies...
+  (compiling source file '../../CMakeProjects/Project065/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project065\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project065\Project065_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project065/module.cppm')
+
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+  Compiling...
+  module.cppm
+  cmake_pch.cxx
+  module.cppm
+  lib.cpp
+  Scanning sources for module dependencies...
+  module.cppm
+  module.cppm
+  module.cppm
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project089\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project089\Project089_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project089/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project089\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project089\Project089_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project089/module.cppm')
+
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project085\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project085\Project085_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project085/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project085\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project085\Project085_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project085/module.cppm')
+
+  module.cppm
+  Compiling...
+  module.cppm
+  cmake_pch.cxx
+  Project123_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project123\Debug\Project123_lib.lib
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project121\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project121\Project121_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project121/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project121\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project121\Project121_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project121/module.cppm')
+
+  Scanning sources for module dependencies...
+  module.cppm
+  main.cpp
+  lib.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project074/CMakeLists.txt
+  lib.cpp
+  module.cppm
+  lib.cpp
+  Scanning sources for module dependencies...
+  module.cppm
+  cmake_pch.cxx
+  Compiling...
+  module.cppm
+  lib.cpp
+  Scanning sources for module dependencies...
+  lib.cpp
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project113\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project113\Project113_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project113/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project113\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project113\Project113_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project113/module.cppm')
+
+  lib.cpp
+  cmake_pch.cxx
+  Project069_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project069\Debug\Project069_lib.lib
+  module.cppm
+  Compiling...
+  Project073_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project073\Debug\Project073_lib.lib
+  Project067_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project067\Debug\Project067_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project082/CMakeLists.txt
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project078/CMakeLists.txt
+  lib.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project068/CMakeLists.txt
+  module.cppm
+  cmake_pch.cxx
+  lib.cpp
+  Project079_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project079\Debug\Project079_lib.lib
+  module.cppm
+  Compiling...
+  cmake_pch.cxx
+  Project091_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project091\Debug\Project091_lib.lib
+  cmake_pch.cxx
+  cmake_pch.cxx
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project083/CMakeLists.txt
+  module.cppm
+  module.cppm
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project067/CMakeLists.txt
+  Project077_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project077\Debug\Project077_lib.lib
+  lib.cpp
+  Project095_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project095\Debug\Project095_lib.lib
+  cmake_pch.cxx
+  module.cppm
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project075_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project075\Debug\Project075_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project069/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project034/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project037/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project075/CMakeLists.txt
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project033/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project066/CMakeLists.txt
+  module.cppm
+  cmake_pch.cxx
+  Project081_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project081\Debug\Project081_lib.lib
+  Scanning sources for module dependencies...
+  lib.cpp
+  module.cppm
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project086/CMakeLists.txt
+  Scanning sources for module dependencies...
+  lib.cpp
+  Compiling...
+  module.cppm
+  cmake_pch.cxx
+  lib.cpp
+  lib.cpp
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  Project070.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project070\Debug\Project070.exe
+  cmake_pch.cxx
+  Project064_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project064\Debug\Project064_lib.lib
+  lib.cpp
+  lib.cpp
+  Project063_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project063\Debug\Project063_lib.lib
+  Project050_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project050\Debug\Project050_lib.lib
+  lib.cpp
+  Project049_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project049\Debug\Project049_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project087/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project073/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project077/CMakeLists.txt
+  Project041_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project041\Debug\Project041_lib.lib
+  Project046_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project046\Debug\Project046_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project047/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project039/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project079/CMakeLists.txt
+  Project052_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project052\Debug\Project052_lib.lib
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project049/CMakeLists.txt
+  module.cppm
+  module.cppm
+  module.cppm
+  Compiling...
+  Compiling...
+  Compiling...
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project092/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  main.cpp
+  cmake_pch.cxx
+  module.cppm
+  main.cpp
+  main.cpp
+  main.cpp
+  main.cpp
+  main.cpp
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project055\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project055\Project055_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project055/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project055\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project055\Project055_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project055/module.cppm')
+
+  module.cppm
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project048\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project048\Project048_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project048/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project048\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project048\Project048_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project048/module.cppm')
+
+  main.cpp
+  lib.cpp
+  main.cpp
+  main.cpp
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project093/CMakeLists.txt
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project058\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project058\Project058_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project058/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project058\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project058\Project058_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project058/module.cppm')
+
+  main.cpp
+  module.cppm
+  Project074.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project074\Debug\Project074.exe
+  Scanning sources for module dependencies...
+  Project071.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project071\Debug\Project071.exe
+  Project043_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project043\Debug\Project043_lib.lib
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project081/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project094/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project095/CMakeLists.txt
+  cmake_pch.cxx
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project096/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project082.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project082\Debug\Project082.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project097/CMakeLists.txt
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project076/CMakeLists.txt
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project038/CMakeLists.txt
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project084/CMakeLists.txt
+  Project078.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project078\Debug\Project078.exe
+  lib.cpp
+  Project075.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project075\Debug\Project075.exe
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  lib.cpp
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project098/CMakeLists.txt
+  Project083.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project083\Debug\Project083.exe
+  Project068.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project068\Debug\Project068.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project090/CMakeLists.txt
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project045/CMakeLists.txt
+  Project066.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project066\Debug\Project066.exe
+  Project069.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project069\Debug\Project069.exe
+  Project086.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project086\Debug\Project086.exe
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  Project035_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project035\Debug\Project035_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project091/CMakeLists.txt
+  main.cpp
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project064/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project099/CMakeLists.txt
+  cmake_pch.cxx
+  Project057_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project057\Debug\Project057_lib.lib
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project040/CMakeLists.txt
+  module.cppm
+  module.cppm
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project100/CMakeLists.txt
+  cmake_pch.cxx
+  Compiling...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project080/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  lib.cpp
+  lib.cpp
+  module.cppm
+  main.cpp
+  module.cppm
+  Project034_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project034\Debug\Project034_lib.lib
+  module.cppm
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project059\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project059\Project059_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project059/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project059\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project059\Project059_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project059/module.cppm')
+
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project101/CMakeLists.txt
+  Project037_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project037\Debug\Project037_lib.lib
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project104/CMakeLists.txt
+  lib.cpp
+  lib.cpp
+  cmake_pch.cxx
+  main.cpp
+  main.cpp
+  Project053_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project053\Debug\Project053_lib.lib
+  Project062_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project062\Debug\Project062_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project105/CMakeLists.txt
+  Project077.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project077\Debug\Project077.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project106/CMakeLists.txt
+  Project087.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project087\Debug\Project087.exe
+  Project092.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project092\Debug\Project092.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project107/CMakeLists.txt
+  main.cpp
+  main.cpp
+  main.cpp
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project063/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project046/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project041/CMakeLists.txt
+  cmake_pch.cxx
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project110/CMakeLists.txt
+  main.cpp
+  main.cpp
+  main.cpp
+  cmake_pch.cxx
+  main.cpp
+  cmake_pch.cxx
+  Project096.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project096\Debug\Project096.exe
+  main.cpp
+  Project095.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project095\Debug\Project095.exe
+  Project094.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project094\Debug\Project094.exe
+  Project049.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project049\Debug\Project049.exe
+  module.cppm
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project052/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project088/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project111/CMakeLists.txt
+  cmake_pch.cxx
+  module.cppm
+  main.cpp
+  Project084.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project084\Debug\Project084.exe
+  Project067.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project067\Debug\Project067.exe
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project114/CMakeLists.txt
+  lib.cpp
+  module.cppm
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project097.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project097\Debug\Project097.exe
+  main.cpp
+  main.cpp
+  Project098.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project098\Debug\Project098.exe
+  Project099.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project099\Debug\Project099.exe
+  Project047_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project047\Debug\Project047_lib.lib
+  Project093.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project093\Debug\Project093.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project035/CMakeLists.txt
+  Project090.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project090\Debug\Project090.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project115/CMakeLists.txt
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project116/CMakeLists.txt
+  Project100.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project100\Debug\Project100.exe
+  module.cppm
+  cmake_pch.cxx
+  module.cppm
+  cmake_pch.cxx
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project033\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project033\Project033_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project033/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project033\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project033\Project033_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project033/module.cppm')
+
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project117/CMakeLists.txt
+  Compiling...
+  main.cpp
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project076.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project076\Debug\Project076.exe
+  cmake_pch.cxx
+  cmake_pch.cxx
+  lib.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project118/CMakeLists.txt
+  main.cpp
+  main.cpp
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project112/CMakeLists.txt
+  Project080.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project080\Debug\Project080.exe
+  cmake_pch.cxx
+  Project038_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project038\Debug\Project038_lib.lib
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project102/CMakeLists.txt
+  main.cpp
+  main.cpp
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project119/CMakeLists.txt
+  Project104.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project104\Debug\Project104.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project108/CMakeLists.txt
+  Project106.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project106\Debug\Project106.exe
+  cmake_pch.cxx
+  main.cpp
+  Project105.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project105\Debug\Project105.exe
+  Project101.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project101\Debug\Project101.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project037/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project050/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project124/CMakeLists.txt
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project125/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  cmake_pch.cxx
+  main.cpp
+  main.cpp
+  main.cpp
+  Project041.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project041\Debug\Project041.exe
+  Project107.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project107\Debug\Project107.exe
+  Project073.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project073\Debug\Project073.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project126/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project123/CMakeLists.txt
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project127/CMakeLists.txt
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project062/CMakeLists.txt
+  Project110.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project110\Debug\Project110.exe
+  cmake_pch.cxx
+  Project079.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project079\Debug\Project079.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project031/CMakeLists.txt
+  Project088.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project088\Debug\Project088.exe
+  module.cppm
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project034/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project017/CMakeLists.txt
+  cmake_pch.cxx
+  Project081.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project081\Debug\Project081.exe
+  Project111.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project111\Debug\Project111.exe
+  Scanning sources for module dependencies...
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project128/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project047/CMakeLists.txt
+  main.cpp
+  module.cppm
+  main.cpp
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  main.cpp
+  cmake_pch.cxx
+  module.cppm
+  Project114.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project114\Debug\Project114.exe
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project023/CMakeLists.txt
+  cmake_pch.cxx
+  Compiling...
+  main.cpp
+  cmake_pch.cxx
+  Compiling...
+  lib.cpp
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project039_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project039\Debug\Project039_lib.lib
+  main.cpp
+  lib.cpp
+  Scanning sources for module dependencies...
+  module.cppm
+  Project091.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project091\Debug\Project091.exe
+  module.cppm
+  cmake_pch.cxx
+  main.cpp
+  Compiling...
+  Project040_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project040\Debug\Project040_lib.lib
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project117.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project117\Debug\Project117.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project026/CMakeLists.txt
+  Project035.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project035\Debug\Project035.exe
+  main.cpp
+  main.cpp
+  Project115.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project115\Debug\Project115.exe
+  Project116.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project116\Debug\Project116.exe
+  main.cpp
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project053/CMakeLists.txt
+  main.cpp
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  Project112.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project112\Debug\Project112.exe
+  lib.cpp
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project043/CMakeLists.txt
+  Compiling...
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project045_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project045\Debug\Project045_lib.lib
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project039/CMakeLists.txt
+  main.cpp
+  Project125.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project125\Debug\Project125.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project120/CMakeLists.txt
+  cmake_pch.cxx
+  main.cpp
+  Project119.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project119\Debug\Project119.exe
+  Project037.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project037\Debug\Project037.exe
+  Project063.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project063\Debug\Project063.exe
+  main.cpp
+  cmake_pch.cxx
+  Project124.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project124\Debug\Project124.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project040/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project020/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project045/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project057/CMakeLists.txt
+  main.cpp
+  Project118.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project118\Debug\Project118.exe
+  main.cpp
+  main.cpp
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project038/CMakeLists.txt
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project019/CMakeLists.txt
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  module.cppm
+  Compiling...
+  Scanning sources for module dependencies...
+  cmake_pch.cxx
+  main.cpp
+  module.cppm
+  Project064.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project064\Debug\Project064.exe
+  main.cpp
+  Compiling...
+  Project127.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project127\Debug\Project127.exe
+  Project126.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project126\Debug\Project126.exe
+  Project047.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project047\Debug\Project047.exe
+  Project062.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project062\Debug\Project062.exe
+  cmake_pch.cxx
+  cmake_pch.cxx
+  Project034.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project034\Debug\Project034.exe
+  cmake_pch.cxx
+  module.cppm
+  Project128.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project128\Debug\Project128.exe
+  main.cpp
+  module.cppm
+  Project052.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project052\Debug\Project052.exe
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project031\module.cppm(1,1): error C2220: the following warning is treated as an error [D:\Source\sandbox\pchBugProject\buil
+d\Project031\Project031_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project031/module.cppm')
+
+D:\Source\sandbox\pchBugProject\CMakeProjects\Project031\module.cppm(1,1): warning C4599: '/IC:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.4
+2.34433\include': precompiled header argument number 11 does not match command line [D:\Source\sandbox\pchBugProject\build\Project031\Project031_lib.vcxproj]
+  (compiling source file '../../CMakeProjects/Project031/module.cppm')
+
+  main.cpp
+  main.cpp
+  Project046.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project046\Debug\Project046.exe
+  lib.cpp
+  main.cpp
+  Project017_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project017\Debug\Project017_lib.lib
+  Project108.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project108\Debug\Project108.exe
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project017/CMakeLists.txt
+  Project123.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project123\Debug\Project123.exe
+  Project050.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project050\Debug\Project050.exe
+  cmake_pch.cxx
+  main.cpp
+  main.cpp
+  main.cpp
+  Project053.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project053\Debug\Project053.exe
+  lib.cpp
+  module.cppm
+  main.cpp
+  main.cpp
+  Project023_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project023\Debug\Project023_lib.lib
+  main.cpp
+  Project043.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project043\Debug\Project043.exe
+  Project039.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project039\Debug\Project039.exe
+  Project120.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project120\Debug\Project120.exe
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project023/CMakeLists.txt
+  cmake_pch.cxx
+  lib.cpp
+  Project040.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project040\Debug\Project040.exe
+  Project057.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project057\Debug\Project057.exe
+  Project045.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project045\Debug\Project045.exe
+  main.cpp
+  main.cpp
+  Project026_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project026\Debug\Project026_lib.lib
+  module.cppm
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project026/CMakeLists.txt
+  cmake_pch.cxx
+  module.cppm
+  Project102.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project102\Debug\Project102.exe
+  lib.cpp
+  Project038.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project038\Debug\Project038.exe
+  lib.cpp
+  Project020_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project020\Debug\Project020_lib.lib
+  main.cpp
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project020/CMakeLists.txt
+  Project019_lib.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project019\Debug\Project019_lib.lib
+  cmake_pch.cxx
+  Building Custom Rule D:/Source/sandbox/pchBugProject/CMakeProjects/Project019/CMakeLists.txt
+  cmake_pch.cxx
+  Project017.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project017\Debug\Project017.exe
+  main.cpp
+  Project023.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project023\Debug\Project023.exe
+  main.cpp
+  Project026.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project026\Debug\Project026.exe
+  main.cpp
+  main.cpp
+  Project020.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project020\Debug\Project020.exe
+  Project019.vcxproj -> D:\Source\sandbox\pchBugProject\build\Project019\Debug\Project019.exe
+PS D:\Source\sandbox\pchBugProject>
